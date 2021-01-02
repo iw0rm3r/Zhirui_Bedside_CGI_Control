@@ -1,7 +1,7 @@
 # Zhirui_Bedside_CGI_Control
 **Set of Python scripts to control Xiaomi Philips Zhirui Bedside Lamp via any web browser**
 
-![Zhirui_Bedside_CGI_Control](https://github.com/iw0rm3r/Zhirui_Bedside_CGI_Control/raw/master/screenshot.png)
+![Zhirui_Bedside_CGI_Control](https://raw.githubusercontent.com/iw0rm3r/Zhirui_Bedside_CGI_Control/main/screenshot.png)
 
 Simple set of Python scripts allowing you to control your **Xiaomi Philips Zhirui Bedside Lamp** from any device capable of showing basic HTML pages, or at least, capable of sending HTTP requests (for toggling the lamp). No internet connection required. Scripts have to be placed on any Python-capable device with a web-server configured to support CGI.
 
